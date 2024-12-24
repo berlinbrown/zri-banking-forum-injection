@@ -70,7 +70,7 @@ body {font-family: "Lato", sans-serif}
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="/badbanking/support/images/team1.jpg" alt="Jane" style="width:100%">
-      <h3>Lalitha Battina</h3>
+      <h3>Bob Jones</h3>
       <p class="w3-opacity">Architect</p>
       <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
